@@ -1,0 +1,149 @@
+*{
+    font-size: 1.1em;
+}
+
+body {
+    background-color: gainsboro;
+}
+
+.header {
+    background-color: cornflowerblue;
+    height: 100px;
+    width: 1570px;
+    display: inline-block;
+}
+
+.fb {
+    height: 30px;
+    width: 30px;
+    padding: 30px;
+}
+
+.fix {
+    position: sticky;
+    top: 0%;
+    background-color: gainsboro;
+}
+
+.size {
+    height: 100px;
+    width: 20%;
+}
+
+ul {
+    display: inline-block;
+}
+
+li {
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+}
+
+li:hover {
+    border-radius: 5px;
+    background-color: cornflowerblue;
+}
+
+.size1 {
+    height: 600px;
+    width: 1570px;
+}
+
+.mar {
+    background-color: cornflowerblue;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(90, 136, 20);
+    font-size: 2em ;
+}
+
+p {
+    text-align: center;
+    text-align: justify;
+    padding: 0px 90px 0px 90px;
+}
+
+.border {
+    color: white;
+    background-color: cornflowerblue;
+    height: 300px;
+    width: 1570px;
+}
+
+.inl {
+    display: inline-block;
+    width: 200px;
+    padding: 70px;
+}
+
+.pad {
+    background-color: whitesmoke;
+    height: 150px;
+    width: 400px;
+    display: inline-block;
+    padding: 30px;
+    margin: 20PX;
+}
+
+.style{
+    padding: 25px ;
+}
+
+.center{
+    padding:  40px 40px 40px 140px;
+    color: rgb(11, 75, 194);
+}
+
+/* .miss {
+    background-color: whitesmoke;
+    height: 50px;
+    width: 300px;
+    display: inline-block;
+}
+
+.coming {
+    display: inline-block;
+} */
+
+
+
+img {
+    height: 200px;
+    width: 250px;
+}
+
+.styling{
+    padding:100px;
+    margin: 30px;
+}
+
+.foot {
+    background-color:black;
+    color: white;
+    height: 500px;
+
+    
+}
+.footicon{
+    height: 20px;
+    width: 20px;
+}
+.copy{
+    background-color: cornflowerblue;
+    height: 30px;
+    padding: 5px;
+    text-align: center;
+}
+.para{
+    padding: 120px 0px 0px 70px;
+    display: inline-block;
+}
+.para1{
+    display: inline-block;
+    padding: 10px;
+    margin: 50PX;
+
+}
